@@ -1,12 +1,12 @@
 streamlit
 tensorflow==2.12.0
-numpy==1.23.5  # Compatibel met TensorFlow 2.12.0
+numpy
 sounddevice  # Correcte naam
 librosa
 scipy
 pandas
 soundfile
 opencv-python
-tensorflow-lite
 tensorflow-keras
 Pillow
+
