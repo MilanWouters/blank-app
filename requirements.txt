@@ -1,8 +1,7 @@
 streamlit
 tensorflow==2.12.0
-numpy  # Compatibel met TensorFlow 2.12.0
+numpy
 sounddevice
-pyaudio  # Voor audio-opnames (nodig voor sommige systemen)
 librosa
 scipy
 pandas
