@@ -1,1 +1,15 @@
 streamlit
+tensorflow==2.12.0
+numpy==1.25.0
+sounddevice
+librosa
+scipy
+pandas
+soundfile
+opencv-python
+tempfile
+re
+io
+tensorflow-lite
+tensorflow-keras
+Pillow

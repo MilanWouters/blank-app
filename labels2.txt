@@ -1,0 +1,12 @@
+0 Achtergrondruis
+1 Duif
+2 Goat
+3 Hond
+4 Kat
+5 Kip
+6 Koe
+7 Mens
+8 Olifant
+9 Paard
+10 Varken
+11 Wolf
